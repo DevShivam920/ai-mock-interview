@@ -1,0 +1,11 @@
+{
+  "name": "Ira - AI Interview Platform",
+  "description": "An interactive AI-powered technical interviewer that uses voice interaction and Gemini to evaluate your answers.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "INTERACTIVE_VOICE"
+  ]
+}
